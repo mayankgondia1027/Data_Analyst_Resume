@@ -1,3 +1,2 @@
 # Data_Analyst_Resume
-(![Resume](https://github.com/user-attachments/assets/039fa8d4-5aaa-4670-afcc-319536854cb5)
-
+![image](https://github.com/mayankgondia1027/Data_Analyst_Resume/blob/main/Resume.jpeg?raw=true)
